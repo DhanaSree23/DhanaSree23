@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanasree23&label=Profile%20views&color=0e75b6&style=flat" alt="dhanasree23" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Data Science and Gen AI at Naresh IT Institute.**
+- 🌱 I’m currently learning **Full Stack Data Science and Gen AI .**
 
 - 💬 Ask me about **Python , Machine learning , Artificial Intelligence, Deep Learning , NLP**
 
