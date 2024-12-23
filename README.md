@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science and Gen AI .**
 
-- 💬 Ask me about **Python , Machine learning , Artificial Intelligence, Deep Learning , NLP**
+- 💬 Ask me about **Data Science , Python , Machine learning , Artificial Intelligence, SQL , Deep Learning , NLP**
 
 - 📫 How to reach me **dhanasree.a.tnk@gmail.com**
 
